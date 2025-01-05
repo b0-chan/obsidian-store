@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Obsidian Vault.iml" filepath="$PROJECT_DIR$/.idea/Obsidian Vault.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/obsidian-store.iml" filepath="$PROJECT_DIR$/.idea/obsidian-store.iml" />
     </modules>
   </component>
 </project>
